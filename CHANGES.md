@@ -12,3 +12,7 @@ Replaced placeholder text with site about description.
 [2026-09-03] - [Satiada]
 Added About section text to index.html.
 Replaced placeholder text with site about description.
+
+[2026-09-03] - [Rubio]
+Created practice-page.html.
+Broke practice-page.html - PR to be closed.
